@@ -3,5 +3,4 @@
   <remote name="github" fetch="https://github.com/DapengSusu" />
   <default revision="master" remote="github" sync-j="4" />
   <project name="simple_web" groups="github" revision="master" />
-  <project name="os-rcore" groups="github" revision="master" />
 </manifest>
